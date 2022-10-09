@@ -111,7 +111,7 @@
         android:ems="10"
         android:gravity="right"
         android:inputType="number"
-        android:textColor="@color/steel_blue"></EditText>
+        android:textColor="@color/steel_blue"/>
 
     <RadioGroup
         android:id="@+id/radioGroup1"

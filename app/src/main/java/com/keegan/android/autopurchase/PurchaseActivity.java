@@ -20,8 +20,9 @@ public class PurchaseActivity extends Activity {
     String monthlyPayment;
 
     // LAYOUT INPUT REFERENCES
-
-
+    EditText carPriceET;
+    EditText downPayET;
+    RadioGroup loanTermRG;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
